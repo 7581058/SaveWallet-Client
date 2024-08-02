@@ -4,6 +4,10 @@
 
 REST API를 활용한 가계부 프로젝트로 수입과 지출을 기록,수정,삭제 할 수 있고 수입, 지출 내역을 리스트와 달력, 차트로 확인할 수 있는 반응형 웹입니다.
 
+프로젝트 레포지토리: https://github.com/FEGROUP9/SAVEWALLET
+프로젝트 커밋 히스토리: https://github.com/FEGROUP9/SAVEWALLET/commits/main/ 
+프로젝트 PR 히스토리: https://github.com/FEGROUP9/SAVEWALLET/pulls?q=is%3Apr+is%3Aclosed
+
 ### 프로젝트 기간
 
 2023년 7월 5일 ~ 2023년 7월 24일
